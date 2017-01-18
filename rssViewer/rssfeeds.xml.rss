@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <feed title="WSJ Markets" url="http://online.wsj.com/xml/rss/3_7031.xml" />
+    <feed title="Sky News" url="http://news.sky.com/sky-news/rss/world-news/rss.xml" />
+    <feed title="Cricket" url="http://www.espncricinfo.com/rss/content/story/feeds/6.xml" />
+    <feed title="NBA" url="http://sports.espn.go.com/espn/rss/nba/news" />
+    <feed title="NFL" url="http://sports.espn.go.com/espn/rss/nfl/news" />
+    <feed title="MLB" url="http://sports.espn.go.com/espn/rss/mlb/news" />
+</rdf:RDF> 

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HIS</key>
+	<array>
+		<string>HIS 101</string>
+		<string>HIS 102</string>
+		<string>HIS 103</string>
+		<string>HIS 104</string>
+		<string>HIS 105</string>
+	</array>
+	<key>MAT</key>
+	<array>
+		<string>MAT 101</string>
+		<string>MAT 102</string>
+		<string>MAT 103</string>
+		<string>MAT 104</string>
+		<string>MAT 105</string>
+	</array>
+	<key>GEO</key>
+	<array>
+		<string>GEO 101</string>
+		<string>GEO 102</string>
+		<string>GEO 103</string>
+		<string>GEO 104</string>
+		<string>GEO 105</string>
+	</array>
+	<key>CHM</key>
+	<array>
+		<string>CHM 101</string>
+		<string>CHM 102</string>
+		<string>CHM 103</string>
+		<string>CHM 104</string>
+		<string>CHM 105</string>
+	</array>
+</dict>
+</plist>
