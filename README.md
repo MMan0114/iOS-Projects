@@ -1,2 +1,2 @@
 # iOS-Projects
-# A few basic iOS projects demonstrating various framework
+ A few basic iOS projects in objective-c demonstrating various frameworks
