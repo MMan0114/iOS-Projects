@@ -220,16 +220,11 @@
     NSUInteger albumTracks = currentItem.albumTrackCount;
     NSUInteger difference = albumTracks - trackNumber;
     [musicPlayer pause];
-    if(difference >= 1){
-        for(int i = 0; i <= difference; i++){
-            [musicPlayer skipToNextItem];
-        }
-    }
-    else
-        [musicPlayer skipToNextItem];
-    //[musicPlayer play];
-//    NSUInteger currIndex = [musicPlayer indexOfNowPlayingItem];
-//    self.musicPlayer.nowPlayingItem = [songsCollection.items objectAtIndex:10];
+
+    NSUInteger currIndex = [musicPlayer indexOfNowPlayingItem];
+    NSUInteger diff = currIndex + difference +1;
+    self.musicPlayer.nowPlayingItem = [songsCollection.items objectAtIndex:diff];
+    [musicPlayer play];
 }
 - (IBAction)queueButton:(id)sender{
     
